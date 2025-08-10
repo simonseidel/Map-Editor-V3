@@ -2,7 +2,7 @@
 ### Version 3
   
 ### Download Links + How-To @ the end of readme
-* 10/8/2025 added a [Youtube tutorial](https://www.youtube.com/watch?v=7Ga6QHdPCL8) and info about [sampctl](https://github.com/Southclaws/sampctl).
+* 10/8/2025 added a some community-made videos including a [youtube tutorial](https://www.youtube.com/watch?v=7Ga6QHdPCL8) and info about [sampctl](https://github.com/Southclaws/sampctl).
 
 ![Header](http://i.imgur.com/GXbn2ba.png)
 
@@ -29,6 +29,11 @@
 * **Toolbar with More Options**
 * **Huge amounts of minor tweaks**
 
+## Videos made by the community
+* [Fusez Map Editor - Installation Tutorial for SAMP 0.3DL](https://www.youtube.com/watch?v=7Ga6QHdPCL8)
+* [SA:MP Mapping - Adding Text via Fuzes Map Editor](https://www.youtube.com/watch?v=3jN_nZHevzk)
+* [SAMP: Advance Map Editor](https://www.youtube.com/watch?v=pA9E4ARmz60)
+
 ## Screenshot(s):
 ![Screenshot](https://i.imgur.com/yz8aR7C.jpeg)
 
@@ -46,6 +51,7 @@ The map shown in the album is included in the map editor package.
 * **Stylock** - GetAttachedObjectPos
 * **h02** - Noclip Flymode
 * **Southclaws** - sampctl support
+* **UnNeko (Youtube)** - Video Tutorial
 
 ## Dependencies: ***REQUIRED!***
 ### Downloads can be found at the bottom of the page
@@ -53,7 +59,7 @@ The map shown in the album is included in the map editor package.
 * sscanf 2.8.2 **(Required)** by Y_Less
 
 ## How To:
-* Download everything required, download links can be found further down this post. [**Youtube Tutorial**](https://www.youtube.com/watch?v=7Ga6QHdPCL8) by [UnNeko](https://www.youtube.com/@UnNeko)
+* Download everything required, download links can be found further down this post. [**Youtube Tutorial**](https://www.youtube.com/watch?v=7Ga6QHdPCL8)
 * optional: use [sampctl](https://github.com/Southclaws/sampctl) prepared by [Southclaws](https://github.com/Southclaws). (not tested by me yet - can someone confirm it is working correctly?)
   
 ### How to Compile:
