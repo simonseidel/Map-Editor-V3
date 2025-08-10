@@ -94,13 +94,13 @@ public OnGameModeInit() {
 * strlib **(Required)** by Slice
   * [GitHub Download](https://github.com/oscar-broman/strlib/archive/master.zip)
   * [GitHub Page](https://github.com/oscar-broman/strlib)
-* sscanf 2.8.2 **(Required)** by Y_Less
-  * [GitHub Windows Download](https://github.com/maddinat0r/sscanf/releases/download/v2.8.2/sscanf-2.8.2-win32.zip)
-  * [GitHub Linux Download](https://github.com/maddinat0r/sscanf/releases/download/v2.8.2/sscanf-2.8.2-linux.tar.gz)
-  * [GitHub Page](https://github.com/maddinat0r/sscanf/releases/tag/v2.8.2)
+* sscanf 2.8.2 **(Required)** by Y_Less (use other versions at your own risk, it might break something)
+  * [GitHub Windows Download](https://github.com/Y-Less/sscanf/releases/download/v2.8.2/sscanf-2.8.2-win32.zip)
+  * [GitHub Linux Download](https://github.com/Y-Less/sscanf/releases/download/v2.8.2/sscanf-2.8.2-linux.tar.gz)
+  * [GitHub Page](https://github.com/Y-Less/sscanf/releases/tag/v2.8.2)
 * Map Editor
-  * [GitHub Download](https://github.com/fusez/Map-Editor-V3/archive/master.zip)
-  * [GitHub Page](https://github.com/fusez/Map-Editor-V3)
+  * [GitHub Download](https://github.com/simonseidel/Map-Editor-V3/archive/master.zip)
+  * [GitHub Page](https://github.com/simonseidel/Map-Editor-V3)
 * Map Editor V3 Building Migrator Database Tool **(Optional)**
-    * [GitHub Download](https://github.com/fusez/Map-Editor-V3-BuildMigrator/archive/refs/heads/master.zip)
-    * [GitHub Page](https://github.com/fusez/Map-Editor-V3-BuildMigrator)
+    * [GitHub Download](https://github.com/simonseidel/Map-Editor-V3-BuildMigrator/archive/refs/heads/master.zip)
+    * [GitHub Page](https://github.com/simonseidel/Map-Editor-V3-BuildMigrator)
