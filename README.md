@@ -2,7 +2,7 @@
 ### Version 3
   
 ### Download Links + How-To @ the end of readme
-* 10/8/2025 added a some community-made videos including a [youtube tutorial](https://www.youtube.com/watch?v=7Ga6QHdPCL8) and info about [sampctl](https://github.com/Southclaws/sampctl).
+* 10/8/2025 added some community-made videos including a [youtube tutorial](https://www.youtube.com/watch?v=7Ga6QHdPCL8) and info about [sampctl](https://github.com/Southclaws/sampctl).
 
 ![Header](http://i.imgur.com/GXbn2ba.png)
 
