@@ -67,10 +67,10 @@ public OnPlayerEditObject(playerid, playerobject, objectid, response, Float:fX, 
                 SetObjectRot(objectid, g_ObjectData[objectid-1][OBJECT_DATA_MEMORY_RX], g_ObjectData[objectid-1][OBJECT_DATA_MEMORY_RY], g_ObjectData[objectid-1][OBJECT_DATA_MEMORY_RZ]);
                 ShowObjectDialog(playerid, DIALOGID_OBJECT_MAIN);
             }
-            case EDIT_RESPONSE_UPDATE: {
+            /*case EDIT_RESPONSE_UPDATE: {
                 SetObjectPos(objectid, fX, fY, fZ);
                 SetObjectRot(objectid, fRotX, fRotY, fRotZ);
-            }
+            }*/
         }
 
     }
