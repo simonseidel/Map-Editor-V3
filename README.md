@@ -1,8 +1,8 @@
 # Map-Editor-V3
 ### Version 3
-prepared for sampctl, thanks to [Southclaws](https://github.com/Southclaws).
-
+  
 ### Download Links + How-To @ the end of readme
+* 10/8/2025 added info about sampctl and a youtube tutorial
 
 ![Header](http://i.imgur.com/GXbn2ba.png)
 
@@ -45,6 +45,7 @@ The map shown in the album is included in the map editor package.
 * **Crayder** - All Model Sizes & Skin Names
 * **Stylock** - GetAttachedObjectPos
 * **h02** - Noclip Flymode
+* **Southclaws** - sampctl support
 
 ## Dependencies: ***REQUIRED!***
 ### Downloads can be found at the bottom of the page
@@ -52,8 +53,9 @@ The map shown in the album is included in the map editor package.
 * sscanf 2.8.2 **(Required)** by Y_Less
 
 ## How To:
-* Download everything required, download links can be found further down this post.
-* (optional) prepared for sampctl, more info about sampctl: https://github.com/Southclaws/sampctl
+* Download everything required, download links can be found further down this post. [**Youtube Tutorial**](https://www.youtube.com/watch?v=7Ga6QHdPCL8) by [UnNeko](https://www.youtube.com/@UnNeko)
+* optional: use [sampctl](https://github.com/Southclaws/sampctl) prepared by [Southclaws](https://github.com/Southclaws). (not tested by me yet - can someone confirm it is working correctly?)
+  
 ### How to Compile:
 * Extract ```mapedit.pwn``` to your ```filterscripts``` folder.
 * Extract the folder ```mapedit``` and its' content to your ```filterscripts``` folder.
