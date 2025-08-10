@@ -1,5 +1,7 @@
 # Map-Editor-V3
 ### Version 3
+prepared for sampctl, thanks to [Southclaws](https://github.com/Southclaws).
+
 ### Download Links + How-To @ the end of readme
 
 ![Header](http://i.imgur.com/GXbn2ba.png)
@@ -51,7 +53,7 @@ The map shown in the album is included in the map editor package.
 
 ## How To:
 * Download everything required, download links can be found further down this post.
-
+* (optional) prepared for sampctl, more info about sampctl: https://github.com/Southclaws/sampctl
 ### How to Compile:
 * Extract ```mapedit.pwn``` to your ```filterscripts``` folder.
 * Extract the folder ```mapedit``` and its' content to your ```filterscripts``` folder.
