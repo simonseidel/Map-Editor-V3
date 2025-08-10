@@ -29,9 +29,10 @@
 * **Toolbar with More Options**
 * **Huge amounts of minor tweaks**
 
-## Videos made by the community
+## Videos made by the community:
 * [Fusez Map Editor - Installation Tutorial for SAMP 0.3DL](https://www.youtube.com/watch?v=7Ga6QHdPCL8)
 * [SA:MP Mapping - Adding Text via Fuzes Map Editor](https://www.youtube.com/watch?v=3jN_nZHevzk)
+* [SA:MP Mapping - Preparations of Making a Custom Interior and Setting Textures](https://www.youtube.com/watch?v=QIKp_Jyug2E) 
 * [SAMP: Advance Map Editor](https://www.youtube.com/watch?v=pA9E4ARmz60)
 
 ## Screenshot(s):
